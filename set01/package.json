@@ -1,0 +1,13 @@
+{
+  "name": "set01",
+  "scripts": {
+    "flow": "flow",
+    "watch": "chokidar '**/*.js' -c 'flow'"
+  },
+  "author": "Chyld Medford",
+  "license": "MIT",
+  "devDependencies": {
+    "chokidar-cli": "^1.2.0",
+    "flow-bin": "^0.32.0"
+  }
+}
