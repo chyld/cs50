@@ -1,0 +1,9 @@
+{
+  "name": "set02",
+  "version": "1.0.0",
+  "dependencies": {
+    "unix-crypt-td-js": "^1.0.0"
+  },
+  "author": "Chyld Medford",
+  "license": "ISC"
+}
